@@ -1,12 +1,13 @@
-# User Stories Mastermind
+Als speler wil ik een 4-cijferige geheime code proberen te raden, zodat ik Mastermind kan spelen zoals bedoeld.
 
-1. **Als speler wil ik een 4-cijferige code kunnen raden, zodat ik het spel kan spelen.**
+Als speler wil ik een foutmelding krijgen bij ongeldige invoer (zoals letters of 7890), zodat ik weet dat alleen cijfers 1–6 toegestaan zijn.
 
-2. **Als speler wil ik feedback krijgen over mijn gok, zodat ik weet welke cijfers correct zijn en welke niet.**
+Als speler wil ik maximaal 10 beurten krijgen, zodat het spel een duidelijke uitdaging biedt.
 
-3. **Als speler wil ik maximaal 10 pogingen hebben om het spel uitdagend te maken.**
+Als speler wil ik feedback krijgen met zwarte en witte pinnen, zodat ik weet welke cijfers correct zijn en op de juiste plaats staan.
 
-4. **Als speler wil ik het spel kunnen starten door het script te runnen.**
+Als speler wil ik na afloop het juiste geheime code zien als ik verlies, zodat ik weet wat het antwoord was.
 
-5. **Als speler wil ik weten wanneer ik het spel heb gewonnen of verloren.**
+Als speler wil ik na elk spel kunnen kiezen of ik opnieuw wil spelen, zodat ik meerdere keren kan oefenen zonder het programma te herstarten.
 
+Als speler wil ik duidelijke spelinstructies zien aan het begin, zodat ik weet hoe Mastermind werkt.
