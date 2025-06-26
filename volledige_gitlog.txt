@@ -1,0 +1,69 @@
+commit ba56e0b406046caa1a3e4da6a062ef8ad9adcc2f
+Author: Hirad K <hiradkeysan@gmail.com>
+Date:   Wed Jun 18 19:54:48 2025 +0200
+
+    feat: final commit voor code freeze
+
+commit 7492a8c7116cba0997c97a5699b715fe0fd4d7ec
+Author: Hirad K <hiradkeysan@gmail.com>
+Date:   Wed Jun 18 19:34:55 2025 +0200
+
+    ci: GitHub Actions workflow toegevoegd voor automatische tests
+
+commit 95d5a6a6060de6cc541e0be85ba60c4ec035d358
+Author: Hirad K <hiradkeysan@gmail.com>
+Date:   Wed Jun 18 19:31:50 2025 +0200
+
+    docs: gitlog toegevoegd als overzicht van commitgeschiedenis
+
+commit 7aeb84d7d5a5f0045ab3d0bdea461c4d0910bf92
+Author: Hirad K <hiradkeysan@gmail.com>
+Date:   Wed Jun 18 19:29:44 2025 +0200
+
+    docs: testrapport toegevoegd met unittests en resultaten
+
+commit ef694942bbe0753f6c2ce564faa8c81f81c77377
+Author: Hirad K <hiradkeysan@gmail.com>
+Date:   Wed Jun 18 19:20:39 2025 +0200
+
+    feat: verbeterde Mastermind-versie gecommit vanaf feature/userstories-toevoegen
+
+commit 6add7a91c8178b3f866475c2b3df578c0e61f520
+Author: Hirad K <hiradkeysan@gmail.com>
+Date:   Wed Jun 18 18:48:40 2025 +0200
+
+    Code freeze: user stories toegevoegd en code final version
+
+commit 3b0b5aebf3766466c551d8fc4b9d127262ff7f47
+Author: Hirad K <148508406+Hntlnn@users.noreply.github.com>
+Date:   Wed Jun 18 18:26:01 2025 +0200
+
+    Create user_stories.md
+    
+    c
+
+commit ab1c47761b76935deddf0f34cf3f9f592195af28
+Author: ictrocn <ictrocn@gmail.com>
+Date:   Tue May 6 15:04:09 2025 +0200
+
+    Create Dockerfile
+
+commit c8f320b0e828d72833d63a648f07ac29f2460218
+Author: ictrocn <ictrocn@gmail.com>
+Date:   Tue May 6 13:08:41 2025 +0200
+
+    Create master_Mind.py
+    
+    from ubuntu docker
+
+commit 7308edd396b1955e87eaafaf94e41de0ff765f77
+Author: ictrocn <ictrocn@gmail.com>
+Date:   Tue May 6 13:06:42 2025 +0200
+
+    Update README.md
+
+commit 12cc29edb8db47235daf42610b84f2e307cb9520
+Author: ictrocn <ictrocn@gmail.com>
+Date:   Tue May 6 13:00:12 2025 +0200
+
+    Initial commit
