@@ -1,8 +1,0 @@
-* 7aeb84d (HEAD -> main, origin/main, origin/HEAD) docs: testrapport toegevoegd met unittests en resultaten
-* ef69494 (origin/feature/userstories-toevoegen, feature/userstories-toevoegen) feat: verbeterde Mastermind-versie gecommit vanaf feature/userstories-toevoegen
-* 6add7a9 Code freeze: user stories toegevoegd en code final version
-* 3b0b5ae Create user_stories.md
-* ab1c477 Create Dockerfile
-* c8f320b Create master_Mind.py
-* 7308edd Update README.md
-* 12cc29e Initial commit
